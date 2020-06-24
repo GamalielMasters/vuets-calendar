@@ -1,0 +1,37 @@
+// Colors
+
+$dusty-gray: #999;
+$gallery: #eeeeee;
+$alto: #ddd;
+$bittersweet: #ff6f69;
+$buttermilk: rgba(255, 238, 173, 0.4);
+$vista-blue: #42b983;
+$pink: rgba(255, 182, 193, 0.3);
+$pickled-bluewood: #35495e;
+
+$calendar-border: 1px solid $alto;
+
+@mixin calendar-row {
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+@mixin calendar-cell {
+  width: 100%;
+  padding: 0.5rem;
+}
+
+@font-face {
+  font-family: 'Muli';
+  src: url('../assets/Muli-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Muli';
+  src: url('../assets/Muli-Regular.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
