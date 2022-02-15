@@ -18,7 +18,7 @@ Frankly, I find coursework boring.  Well, let me amend that, learning new things
 
 One thing I can do to stave this off is to change things up... in some cases (where I'm learning somthing conceptual like development patterns), I'll intentionally do the exercizes in a different language than the instructor is working in, so that I am forced to _think_ through the underlying concepts and translate them into my chosen language.
 
-In other instances, like this where the framework is tied to a particular language, I'll change somthing else for the same reason.  Thus my push to implement in Typescript and with class-components rather then straight vie-js. 
+In other instances, like this where the framework is tied to a particular language, I'll change somthing else for the same reason.  Thus my push to implement in Typescript and with class-components rather then straight vue-js. 
 
 Plus, I'm more likely to write my own projects in Typescript over vanilla Javascript anyway, and this this actually helps me optimize for my likely use-case.
 
